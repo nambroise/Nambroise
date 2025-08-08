@@ -5,7 +5,7 @@ Through consistent effort and practical experience, I’ve developed skills in v
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Vulnerability Management Program Implementation](https://github.com/nambroise/Vulnerability-Management-Implementation)**
 
 ## 🚨 Threat Hunting and Security Operations
 
