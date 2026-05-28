@@ -4,7 +4,7 @@
 
 🔗 **Live Resume Website:** [nathan-ambroise.cloud](https://your-cloudfront-url.com)  
 📧 **Contact:** Ambroise.nathan@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/nathan-ambroise](https://linkedin.com/in/nathan-ambroise)
+🔗 **LinkedIn:** [linkedin.com/in/nathan-ambroise](https://linkedin.com/in/nambroise)
 
 ---
 
