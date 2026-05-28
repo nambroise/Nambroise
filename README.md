@@ -26,7 +26,7 @@
 ### 1. Cloud Resume Platform (Serverless)
 
 **Live demo:** [nathan-ambroise.cloud](https://your-cloudfront-url.com)  
-**GitHub repo:** [./cloud-resume](https://github.com/nambroise/cloud-resume)
+**GitHub repo:** [./cloud-resume](https://github.com/nambroise/cloud-resume-platform)
 
 - Built a fully serverless resume website with S3, CloudFront, Lambda (Python), API Gateway, and DynamoDB.
 - Automated infrastructure deployment using **Terraform**.
@@ -87,4 +87,4 @@ I'm actively seeking Cloud/DevOps roles, especially with government agencies. If
 
 ---
 
-*“Build, automate, deploy.”*
+*“Build, Automate, Deploy.”*
