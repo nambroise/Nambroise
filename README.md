@@ -62,7 +62,7 @@
 
 ## 🎓 Certifications
 
-- **AWS Certified Solutions Architect – Associate (SAA)** – *Issued 2026*
+- AWS Certified Solutions Architect – Associate (SAA)
 - CompTIA Security+
 - CompTIA Network+
 
@@ -71,14 +71,15 @@
 ## 📈 What I'm Learning Next
 
 - Advanced Terraform (modules, state management)
-- Kubernetes (EKS) – *planned*
-- AWS CDK
+- Kubernetes  – *planned*
+- Prometheus
+- Grafana
 
 ---
 
 ## 📫 Let's Connect
 
-I'm actively seeking entry-level Cloud/DevOps roles, especially with government agencies. If you're hiring or know someone who is, please reach out!
+I'm actively seeking Cloud/DevOps roles, especially with government agencies. If you're hiring or know someone who is, please reach out!
 
 - **Email:** Ambroise.nathan@gmail.com
 - **LinkedIn:** [linkedin.com/in/nathan-ambroise](https://linkedin.com/in/nambroise)
