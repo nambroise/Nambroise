@@ -1,7 +1,5 @@
 # <a href="https://www.linkedin.com/in/nambroise/">Nathan Ambroise</a>'s Cloud/DevOps Portfolio 🔐
 
-# Nathan Ambroise – Cloud & DevOps Portfolio
-
 👋 Hi, I'm Nathan – an AWS Certified Cloud Engineer passionate about infrastructure as code, CI/CD automation, and serverless architecture.
 
 🔗 **Live Resume Website:** [nathan-ambroise.cloud](https://your-cloudfront-url.com)  
