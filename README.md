@@ -81,7 +81,7 @@
 I'm actively seeking entry-level Cloud/DevOps roles, especially with government agencies. If you're hiring or know someone who is, please reach out!
 
 - **Email:** Ambroise.nathan@gmail.com
-- **LinkedIn:** [linkedin.com/in/nathan-ambroise](https://linkedin.com/in/nathan-ambroise)
+- **LinkedIn:** [linkedin.com/in/nathan-ambroise](https://linkedin.com/in/nambroise)
 - **GitHub:** [github.com/nambroise](https://github.com/nambroise)
 
 ---
