@@ -1,9 +1,9 @@
-# <a href="https://www.linkedin.com/in/nathan-a-00864624b/">Nathan Ambroise</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/nambroise/">Nathan Ambroise</a>'s Cloud/DevOps Portfolio 🔐
 
 Through consistent effort and practical experience, I’ve developed skills in vulnerability management and threat detection. My hands-on projects demonstrate how focused work enhances security operations and strengthens defenses.
 
 
-## ⚠️ Vulnerability Management Projects
+## ⚠️ AWS Cloud
 
 - **[Vulnerability Management Program Implementation](https://github.com/nambroise/Vulnerability-Management-Implementation)**
 
