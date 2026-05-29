@@ -74,6 +74,8 @@
 - Kubernetes  – *planned*
 - Prometheus
 - Grafana
+- gitOps - ArgoCD
+
 
 ---
 
