@@ -33,8 +33,7 @@
 - Set up CI/CD with **GitHub Actions** – every `git push` updates the live site.
 - Implemented a visitor counter that stores views in DynamoDB.
 
-> 🖼️ *Architecture diagram included in the repo.*
-
+![AWS Resume Platform Architecture](/Aws-arch-cloud-resume.png)
 ---
 
 ### 2. AWS CI/CD Pipeline (CodePipeline + CodeBuild + CodeDeploy)
