@@ -2,7 +2,7 @@
 
 👋 Hi, I'm Nathan – an AWS Certified Cloud Engineer passionate about infrastructure as code, CI/CD automation, and serverless architecture.
 
-🔗 **Live Resume Website:** [nathan-ambroise.cloud](https://your-cloudfront-url.com)  
+🔗 **Live Resume Website:** [nathan-ambroise.cloud](https://platfrom.nathan-resume.com)  
 📧 **Contact:** Ambroise.nathan@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/nathan-ambroise](https://linkedin.com/in/nambroise)
 
@@ -25,7 +25,7 @@
 
 ### 1. Cloud Resume Platform (Serverless)
 
-**Live demo:** [nathan-ambroise.cloud](https://your-cloudfront-url.com)  
+**Live demo:** [nathan-ambroise.cloud](https://platfrom.nathan-resume.com)  
 **GitHub repo:** [./cloud-resume](https://github.com/nambroise/Aws-resume-platform)
 
 - Built a fully serverless resume website with S3, CloudFront, Lambda (Python), API Gateway, and DynamoDB.
@@ -33,7 +33,7 @@
 - Set up CI/CD with **GitHub Actions** – every `git push` updates the live site.
 - Implemented a visitor counter that stores views in DynamoDB.
 
-![AWS Resume Platform Architecture](/Aws-arch-cloud-resume.png)
+![AWS Resume Platform Architecture](.asset/Aws-arch-cloud-resume.png)
 ---
 
 ### 2. AWS CI/CD Pipeline (CodePipeline + CodeBuild + CodeDeploy)
