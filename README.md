@@ -36,7 +36,7 @@
 ![AWS Resume Platform Architecture](Aws-arch-cloud-resume.png)
 ---
 
-### 2. AWS CI/CD Pipeline (CodePipeline + CodeBuild + CodeDeploy)
+### 2. AWS CI/CD Pipeline (CodePipeline + CodeBuild + CodeDeploy) -IN DEVELOPMENT
 
 **GitHub repo:** [./CI/CD-Pipeline](https://github.com/nambroise/cicd-pipeline)
 
@@ -49,7 +49,7 @@
 
 ---
 
-### 3. Three-Tier Serverless Web Application
+### 3. Three-Tier Serverless Web Application -IN DEVELOPMENT
 
 **GitHub repo:** [./three-tier-serverless](https://github.com/nambroise/three-tier-serverless)
 
