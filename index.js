@@ -69,14 +69,14 @@ async function updateCounter() {
         const data = await response.text();
 
         counterElements.forEach(counter => {
-            counter.innerHTML = `👀 Views: ${data}`;
+            counter.innerHTML = `Views: ${data}`;
         });
 
     } catch (error) {
         console.error("Visitor counter error:", error);
 
         counterElements.forEach(counter => {
-            counter.innerHTML = "👀 Views: unavailable";
+            counter.innerHTML = "Views: unavailable";
         });
     }
 }
