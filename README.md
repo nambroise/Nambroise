@@ -26,7 +26,7 @@
 ### 1. Cloud Resume Platform (Serverless)
 
 **Live demo:** [nathan-ambroise.cloud](https://platform.nathan-resume.com)  
-**GitHub repo:** [./cloud-resume](https://github.com/nambroise/Aws-resume-platform)
+**GitHub repo:** [./Aws-resume-platform](https://github.com/nambroise/Aws-resume-platform)
 
 - Built a fully serverless resume website with S3, CloudFront, Lambda (Python), API Gateway, and DynamoDB.
 - Automated infrastructure deployment using **Terraform**.
