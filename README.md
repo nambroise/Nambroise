@@ -2,7 +2,7 @@
 
 👋 Hi, I'm Nathan – an AWS Certified Cloud Engineer passionate about infrastructure as code, CI/CD automation, and serverless architecture.
 
-🔗 **Live Resume Website:** [nathan-ambroise.cloud](https://platform.nathan-resume.com)  
+🔗 **Live Resume Website:** [Platform.nathan-resume.com](https://platform.nathan-resume.com)  
 📧 **Contact:** Ambroise.nathan@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/nathan-ambroise](https://linkedin.com/in/nambroise)
 
@@ -61,7 +61,7 @@
 
 ## 🎓 Certifications
 
-- AWS Certified Solutions Architect – Associate (SAA)
+-  AWS Certified Cloud Practitioner
 - CompTIA Security+
 - CompTIA Network+
 
