@@ -2,9 +2,9 @@
 
 👋 Hi, I'm Nathan – an AWS Certified Cloud Engineer passionate about infrastructure as code, CI/CD automation, and serverless architecture.
 
-🔗 **Live Resume Website:** [Platform.nathan-resume.com](https://platform.nathan-resume.com)  
+🔗 **Live Resume Website:** [Platformm](https://p)  
 📧 **Contact:** Ambroise.nathan@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/nathan-ambroise](https://linkedin.com/in/nambroise)
+🔗 **LinkedIn:** [linkedin.com/(https://linkedin.com/in/e)
 
 ---
 
@@ -25,8 +25,8 @@
 
 ### 1. Cloud Resume Platform (Serverless)
 
-**Live demo:** [nathan-ambroise.cloud](https://platform.nathan-resume.com)  
-**GitHub repo:** [./Aws-resume-platform](https://github.com/nambroise/Aws-resume-platform)
+**Live demo:** [nathan-](https://platformom)  
+**GitHub repo:** [./Aws-resume](https://github.com)
 
 - Built a fully serverless resume website with S3, CloudFront, Lambda (Python), API Gateway, and DynamoDB.
 - Automated infrastructure deployment using **Terraform**.
@@ -38,7 +38,7 @@
 
 ### 2. AWS CI/CD Pipeline (CodePipeline + CodeBuild + CodeDeploy) -IN DEVELOPMENT
 
-**GitHub repo:** [./CI/CD-Pipeline](https://github.com/nambroise/cicd-pipeline)
+**GitHub repo:** [./CI/CD-Pipeline](https://github.com)
 
 - Built an end-to-end CI/CD pipeline using **AWS CodePipeline, CodeBuild, CodeDeploy, and CodeArtifact**.
 - Integrated with **GitHub** – pipeline triggers on every push to `main`.
@@ -51,7 +51,7 @@
 
 ### 3. Three-Tier Serverless Web Application -IN DEVELOPMENT
 
-**GitHub repo:** [./three-tier-serverless](https://github.com/nambroise/three-tier-serverless)
+**GitHub repo:** [./three-tier-serverless](https://github.com/nambroise)
 
 - Built a scalable three-tier architecture using **S3 (frontend), Lambda + API Gateway (backend), and DynamoDB (database)**.
 - Configured CloudFront for global content delivery.
