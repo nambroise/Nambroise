@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/nambroise/">Nathan Ambroise</a>'s Cloud/DevOps Portfolio 🔐
+# <a href="https://www.linkedin./">N</a>'s Cloud/DevOps Portfolio 🔐
 
 👋 Hi, I'm Nathan – an AWS Certified Cloud Engineer passionate about infrastructure as code, CI/CD automation, and serverless architecture.
 
